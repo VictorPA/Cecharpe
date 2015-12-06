@@ -12,7 +12,7 @@ namespace Segment
 
         public Console()
         {
-            test();
+            tests();
         }
         public static void afficherSegment(Segment s)
         {
@@ -24,7 +24,7 @@ namespace Segment
                 System.Console.Write("_");
             }
         }
-        public void test()
+        public void tests()
         {
             s1 = new Segment(1, 9);
             s2 = new Segment(4, 8);
@@ -33,77 +33,8 @@ namespace Segment
             afficherSegment(s2);
             afficherSegment(s3);
             System.Console.WriteLine("");
-            if (s3.appartientSegment(5))
-            {
-                for (int i = 0; i < 4; ++i)
-                    System.Console.Write(" ");
-                System.Console.Write("O");
-            }
-
-            else
-            {
-                for (int i = 0; i < 4; ++i)
-                    System.Console.Write(" ");
-                System.Console.Write("X");
-            }
-            System.Console.WriteLine("");
-            if (s3.appartientSegment(15))
-            {
-                for (int i = 0; i < 14; ++i)
-                    System.Console.Write(" ");
-                System.Console.Write("O");
-            }
-
-            else
-            {
-                for (int i = 0; i < 14; ++i)
-                    System.Console.Write(" ");
-                System.Console.Write("X");
-            }
-            s3.déplacerSegment(10);
-            afficherSegment(s3);
-            System.Console.WriteLine("");
-            if (s3.appartientSegment(5))
-            {
-                for (int i = 0; i < 4; ++i)
-                    System.Console.Write(" ");
-                System.Console.Write("O");
-            }
-
-            else
-            {
-                for (int i = 0; i < 4; ++i)
-                    System.Console.Write(" ");
-                System.Console.Write("X");
-            }
-            System.Console.WriteLine("");
-            if (s3.appartientSegment(14))
-            {
-                for (int i = 0; i < 13; ++i)
-                    System.Console.Write(" ");
-                System.Console.Write("O");
-            }
-
-            else
-            {
-                for (int i = 0; i < 13; ++i)
-                    System.Console.Write(" ");
-                System.Console.Write("X");
-            }
-            System.Console.WriteLine("");
-            if (s3.appartientSegment(14))
-            {
-                for (int i = 0; i < 15; ++i)
-                    System.Console.Write(" ");
-                System.Console.Write("O");
-            }
-
-            else
-            {
-                for (int i = 0; i < 15; ++i)
-                    System.Console.Write(" ");
-                System.Console.Write("X");
-            }
+            int pointX = 0;
+            
         }
     }
 }
