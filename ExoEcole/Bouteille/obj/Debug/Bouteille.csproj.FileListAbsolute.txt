@@ -1,0 +1,6 @@
+D:\Victor\Bureau\IUT\Ecole\ExoEcole\Bouteille\bin\Debug\Bouteille.exe.config
+D:\Victor\Bureau\IUT\Ecole\ExoEcole\Bouteille\bin\Debug\Bouteille.exe
+D:\Victor\Bureau\IUT\Ecole\ExoEcole\Bouteille\bin\Debug\Bouteille.pdb
+D:\Victor\Bureau\IUT\Ecole\ExoEcole\Bouteille\obj\Debug\Bouteille.csprojResolveAssemblyReference.cache
+D:\Victor\Bureau\IUT\Ecole\ExoEcole\Bouteille\obj\Debug\Bouteille.exe
+D:\Victor\Bureau\IUT\Ecole\ExoEcole\Bouteille\obj\Debug\Bouteille.pdb
