@@ -32,7 +32,7 @@ Vérifier à l'aide d'une application console que le segment fonctionne correcte
         private int _extrémité1;
         private int _extrémité2;
         private int _longeur;
-        public Segment(int point, int longueur)
+        public Segment (int point, int longueur)
         {
             _extrémité1 = point;
             _longeur = longueur;
@@ -75,6 +75,9 @@ Vérifier à l'aide d'une application console que le segment fonctionne correcte
             else
                 nExtrémité2 = s2._extrémité2;
             nLongeur = nExtrémité2 - nExtrémité1;
+            if (nLongeur <= 0)
+                throw new System.ArgumentException("Tentative de créer une intersection de longueur nulle", "nLongeur");
+            //ctrl shift espace pour afficher les overflows
             Segment nouveauSegment = new Segment(nExtrémité1, nLongeur);
             return nouveauSegment;
         }

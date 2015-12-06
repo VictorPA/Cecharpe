@@ -1,0 +1,5 @@
+D:\Victor\Bureau\IUT\Ecole\ExoEcole\ConsoleApplication1\bin\Debug\Lampes.exe.config
+D:\Victor\Bureau\IUT\Ecole\ExoEcole\ConsoleApplication1\bin\Debug\Lampes.exe
+D:\Victor\Bureau\IUT\Ecole\ExoEcole\ConsoleApplication1\bin\Debug\Lampes.pdb
+D:\Victor\Bureau\IUT\Ecole\ExoEcole\ConsoleApplication1\obj\Debug\Lampes.exe
+D:\Victor\Bureau\IUT\Ecole\ExoEcole\ConsoleApplication1\obj\Debug\Lampes.pdb

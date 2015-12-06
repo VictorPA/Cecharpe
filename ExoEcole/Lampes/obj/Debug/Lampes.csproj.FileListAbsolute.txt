@@ -1,0 +1,12 @@
+D:\Victor\Bureau\IUT\Ecole\ExoEcole\Lampes\bin\Debug\Lampes.exe.config
+D:\Victor\Bureau\IUT\Ecole\ExoEcole\Lampes\bin\Debug\Lampes.exe
+D:\Victor\Bureau\IUT\Ecole\ExoEcole\Lampes\bin\Debug\Lampes.pdb
+D:\Victor\Bureau\IUT\Ecole\ExoEcole\Lampes\bin\Debug\nunit.framework.dll
+D:\Victor\Bureau\IUT\Ecole\ExoEcole\Lampes\bin\Debug\nunit.framework.xml
+D:\Victor\Bureau\IUT\Ecole\ExoEcole\Lampes\obj\Debug\Lampes.exe
+D:\Victor\Bureau\IUT\Ecole\ExoEcole\Lampes\obj\Debug\Lampes.pdb
+D:\Victor\Bureau\IUT\Ecole\ExoEcole\Lampes\bin\Debug\nunit.core.dll
+D:\Victor\Bureau\IUT\Ecole\ExoEcole\Lampes\bin\Debug\nunit.core.interfaces.dll
+D:\Victor\Bureau\IUT\Ecole\ExoEcole\Lampes\bin\Debug\nunit.util.dll
+D:\Victor\Bureau\IUT\Ecole\ExoEcole\Lampes\bin\Debug\NUnit.VisualStudio.TestAdapter.dll
+D:\Victor\Bureau\IUT\Ecole\ExoEcole\Lampes\obj\Debug\Lampes.csprojResolveAssemblyReference.cache

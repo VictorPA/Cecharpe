@@ -3,4 +3,3 @@ D:\Victor\Bureau\IUT\Ecole\ExoEcole\Segment\bin\Debug\Segment.exe
 D:\Victor\Bureau\IUT\Ecole\ExoEcole\Segment\bin\Debug\Segment.pdb
 D:\Victor\Bureau\IUT\Ecole\ExoEcole\Segment\obj\Debug\Segment.exe
 D:\Victor\Bureau\IUT\Ecole\ExoEcole\Segment\obj\Debug\Segment.pdb
-D:\Victor\Bureau\IUT\Ecole\ExoEcole\Segment\obj\Debug\Segment.csprojResolveAssemblyReference.cache

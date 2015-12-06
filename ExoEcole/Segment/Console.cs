@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -26,15 +27,14 @@ namespace Segment
         }
         public void tests()
         {
-            s1 = new Segment(1, 9);
-            s2 = new Segment(4, 8);
+            s1 = new Segment(0, 50);
+            s2 = new Segment(0, 30);
             Segment s3 = Segment.intersectionSegment(s1,s2);
             afficherSegment(s1);
             afficherSegment(s2);
             afficherSegment(s3);
             System.Console.WriteLine("");
-            int pointX = 0;
-            
+           // int.Equals(1, 1); Exemple de comparaison
         }
     }
 }
